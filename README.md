@@ -1,4 +1,4 @@
-m# Olá, eu sou o Jairo Andrade 👋
+# Olá, eu sou o Jairo Andrade 👋
 
 **Desenvolvedor Full-Stack | Angular 19 • FastAPI • PostgreSQL • Node.js**
 
