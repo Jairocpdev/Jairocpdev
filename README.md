@@ -66,5 +66,5 @@ API Node.js integrada a LLMs via OpenRouter para chat, resumo e explicação de 
 Projeto de manipulação de DOM e tempo real com JavaScript puro.
 
 **Stack:** JavaScript 
-**Conceitos:** Lógica, performance no front-end.
+**Conceitos:** Lógica e performance no front-end.
 
