@@ -1,4 +1,4 @@
-# Olá, eu sou o Jairo Andrade 👋
+m# Olá, eu sou o Jairo Andrade 👋
 
 **Desenvolvedor Full-Stack | Angular 19 • FastAPI • PostgreSQL • Node.js**
 
@@ -6,7 +6,7 @@
 
 📍 Nilópolis, RJ - Brasil 
 
-[LinkedIn](https://www.linkedin.com/in/jairo-andrade-642724269/) 
+[LinkedIn](https://www.linkedin.com/in/jairo-andrade-642724269/)
 [Portfólio](https://linktr.ee/jairocandrade)  
 [Instagram](https://www.instagram.com/jairocandrade)
 
@@ -64,5 +64,7 @@ API Node.js integrada a LLMs via OpenRouter para chat, resumo e explicação de 
 
 #### 4. [relogio-digital](https://github.com/jairocpdev/relogio-digital)
 Projeto de manipulação de DOM e tempo real com JavaScript puro.
-**Stack:** JavaScript | **Conceitos:** Lógica, performance no frontend.
+
+**Stack:** JavaScript 
+**Conceitos:** Lógica, performance no front-end.
 
