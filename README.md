@@ -18,9 +18,9 @@ Desenvolvedor Full-Stack Júnior com experiência prática na stack moderna de J
 
 Meu foco atual é:
 
-- **Frontend:** Desenvolvimento de SPAs performáticas com Angular 19, TypeScript, RxJS e design responsivo.
+- **Front-end:** Desenvolvimento de SPAs performáticas com Angular 19, TypeScript, RxJS e design responsivo.
 
-- **Backend:** Criação de APIs REST robustas com FastAPI e Node.js, aplicando conceitos de SOLID, injeção de dependência e validação com Pydantic.
+- **Back-end:** Criação de APIs REST robustas com FastAPI e Node.js, aplicando conceitos de SOLID, injeção de dependência e validação com Pydantic.
 
 - **Banco de Dados & Dev Tools:** Modelagem com SQLAlchemy, PostgreSQL/SQLite, Git/GitHub e documentação com Swagger/OpenAPI.
 
