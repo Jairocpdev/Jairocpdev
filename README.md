@@ -6,8 +6,8 @@
 
 📍 Nilópolis, RJ - Brasil 
 
-[LinkedIn](https://www.linkedin.com/in/jairo-andrade-642724269/)
-[Portfólio](https://linktr.ee/jairocandrade)
+[LinkedIn](https://www.linkedin.com/in/jairo-andrade-642724269)
+[Portfólio](https://jairo-andrade.vercel.app)
 [Instagram](https://www.instagram.com/jairocandrade)
 
 ---
