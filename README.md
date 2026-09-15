@@ -1,70 +1,55 @@
 # Olá, eu sou o Jairo Andrade 👋
 
-**Desenvolvedor Full-Stack | Angular 19 • FastAPI • PostgreSQL • Node.js**
+**Full-Stack Developer | Angular 19 • FastAPI • Node.js • PostgreSQL**
 
-> Foco em construir aplicações escaláveis, com arquitetura limpa e código de fácil manutenção. Em transição de carreira com alta capacidade de aprendizado e entrega.
+> Foco em construir aplicações escaláveis com arquitetura limpa, SOLID e código de fácil manutenção.
+> Em transição de carreira com alta capacidade de aprendizado e entrega.
 
-📍 Nilópolis, RJ - Brasil 
+📍 Nilópolis, RJ - Brasil | 💼 Aberto para Júnior / Estágio
 
-[LinkedIn](https://www.linkedin.com/in/jairo-andrade-642724269)
-[Portfólio](https://jairo-andrade.vercel.app)
-[Instagram](https://www.instagram.com/jairocandrade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-andrade-642724269)
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jairo-andrade.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairocpdev)
 
 ---
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Full-Stack Júnior com experiência prática na stack moderna de JavaScript/TypeScript e Python. 
+Desenvolvedor Full-Stack Júnior com experiência prática no ecossistema TypeScript/Python.
 
-Meu foco atual é:
+- **Front-end:** SPAs performáticas com Angular 19, TypeScript, RxJS, Tailwind e design responsivo
+- **Back-end:** APIs REST robustas com FastAPI & Node.js, SOLID, Injeção de Dependência, Pydantic
+- **Dados & DevTools:** PostgreSQL, SQLAlchemy, Git/GitHub, Swagger/OpenAPI, Docker (básico)
+- **Mindset:** Clean Code, versionamento semântico, arquitetura em camadas e foco em problema de negócio
 
-- **Front-end:** Desenvolvimento de SPAs performáticas com Angular 19, TypeScript, RxJS e design responsivo.
-
-- **Back-end:** Criação de APIs REST robustas com FastAPI e Node.js, aplicando conceitos de SOLID, injeção de dependência e validação com Pydantic.
-
-- **Banco de Dados & Dev Tools:** Modelagem com SQLAlchemy, PostgreSQL/SQLite, Git/GitHub e documentação com Swagger/OpenAPI.
-
-- **Mindset Corporativo:** Código limpo, versionamento semântico, arquitetura em camadas e foco em resolver problemas de negócio, não apenas código.
-
-### 🛠️ Tech Stack
-
-**Frontend:** Angular 19, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind
-
-**Backend:** Python 3.12+, FastAPI, Node.js, Express
-
-**Database & ORM:** PostgreSQL, SQLite, SQLAlchemy
-
-**Ferramentas & Integrações:** Git, GitHub, Swagger UI, OpenRouter (LLM), Uvicorn, Dotenv, Pydantic
+### 🛠 Tech Stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📌 Projetos em Destaque
 
-#### 1. [helpdesk-fullstack](https://github.com/jairocpdev/helpdesk-fullstack)
-Sistema completo de Helpdesk com autenticação e controle de chamados.
+#### 1. [task-api](https://github.com/jairocpdev/task-api) - Task Manager FullStack
+**Stack:** FastAPI, SQLAlchemy, Angular 19, JWT, Swagger  
+API com 15+ endpoints, auth JWT e dashboard. Deploy em Vercel + Render.  
+🔗 [Live API](https://task-api-1-053k.onrender.com/docs) | [Live App](https://task-manager-eosin-ten-31.vercel.app)
 
-**Stack:** Angular 19 + Spring Boot (em evolução) 
-**Conceitos:** Autenticação JWT, CRUD completo, Gestão de estado.
-
-> Demonstra visão de produto ponta-a-ponta.
-
-#### 2. [task-api](https://github.com/jairocpdev/task-api)
-API REST para gerenciamento de tarefas com arquitetura em camadas.
-
-**Stack:** FastAPI, SQLAlchemy, SQLite, Pydantic  
-**Conceitos:** REST, Injeção de Dependência, ORM.
-
-> Demonstra base sólida de backend Python pronta para escalar para PostgreSQL em ambiente corporativo.
+#### 2. [helpdesk-fullstack](https://github.com/jairocpdev/helpdesk-fullstack)
+**Stack:** Angular 19 + Spring Boot (em migração)  
+Sistema completo de chamados com autenticação e gestão de estado.
 
 #### 3. [chatbot-llm-openrouter](https://github.com/jairocpdev/chatbot-llm-openrouter)
-API Node.js integrada a LLMs via OpenRouter para chat, resumo e explicação de código.
-
-**Stack:** Node.js, OpenRouter, Swagger 
-**Conceitos:** Integração com IA, Prompt Engineering, Arquitetura de Services.
-
-> Demonstra alinhamento com as demandas atuais de IA Generativa nas empresas.
+**Stack:** Node.js, OpenRouter, Swagger  
+Integração com LLMs para chat, resumo e explicação de código - alinhado com IA Generativa.
 
 #### 4. [relogio-digital](https://github.com/jairocpdev/relogio-digital)
-Projeto de manipulação de DOM e tempo real com JavaScript puro.
+**Stack:** JavaScript Puro  
+Foco em lógica, performance e manipulação de DOM em tempo real.
 
-**Stack:** JavaScript 
-**Conceitos:** Lógica e performance no front-end.
-
+---
+### 📊 GitHub Stats
+![Jairo's Stats](https://github-readme-stats.vercel.app/api?username=jairocpdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocpdev&layout=compact&theme=tokyonight)
