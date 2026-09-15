@@ -48,8 +48,3 @@ Integração com LLMs para chat, resumo e explicação de código - alinhado com
 #### 4. [relogio-digital](https://github.com/jairocpdev/relogio-digital)
 **Stack:** JavaScript Puro  
 Foco em lógica, performance e manipulação de DOM em tempo real.
-
----
-### 📊 GitHub Stats
-![Jairo's Stats](https://github-readme-stats.vercel.app/api?username=jairocpdev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocpdev&layout=compact&theme=tokyonight)
