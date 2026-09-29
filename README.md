@@ -2,8 +2,7 @@
 
 **Full-Stack Developer | Angular 19 • FastAPI • Node.js • PostgreSQL**
 
-> Foco em construir aplicações escaláveis com arquitetura limpa, SOLID e código de fácil manutenção.
-> Em transição de carreira com alta capacidade de aprendizado e entrega.
+> Foco em construir aplicações escaláveis com arquitetura limpa, SOLID e código de fácil manutenção. Alta capacidade de aprendizado e entrega.
 
 📍 Nilópolis, RJ - Brasil | 💼 Aberto para Júnior / Estágio
 
