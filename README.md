@@ -47,3 +47,12 @@ Integração com LLMs para chat, resumo e explicação de código - alinhado com
 #### 4. [relogio-digital](https://github.com/jairocpdev/relogio-digital)
 **Stack:** JavaScript Puro  
 Foco em lógica, performance e manipulação de DOM em tempo real.
+
+
+## 🏙️ Contribution Skyline
+
+<img src="https://raw.githubusercontent.com/Jairocpdev/Jairocpdev/output/city-skyline.svg" alt="City Skyline" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jairocpdev/Jairocpdev/output/city-skyline.svg" />
+</p>
