@@ -1,0 +1,38 @@
+name: Contribution City Skyline
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Generate City Skyline Ocean
+        uses: WendellOttoni/github-contrib-runner@main
+        with:
+          username: Jairocpdev
+          variant: city
+          theme: ocean
+          title: Contribution Skyline
+          output: dist/city-skyline.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
