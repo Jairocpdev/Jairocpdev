@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  📍 Nilópolis, RJ - Brasil | 💼 Aberto para Júnior / Estágio <br/>
-  <a href="https://www.linkedin.com/in/jairo-andrade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://jairo-andrade.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Jairocpdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  📍 Nilópolis, RJ - Brasil | 💼 Aberto para Júnior / Estágio <br/>  
+  
+  <a href="https://www.linkedin.com/in/jairo-andrade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://jairo-andrade.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
+  <a href="https://github.com/Jairocpdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
+</p> 
 
 ---
 
