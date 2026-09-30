@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <i>Foco em construir aplicações escaláveis com arquitetura limpa, SOLID e código de fácil manutenção. Alta capacidade de aprendizado e entrega.</i>
+  <i>Foco em construir aplicações escaláveis com arquitetura limpa, SOLID e código de fácil manutenção. 
+    Alta capacidade de aprendizado e entrega.</i>
 </p>
 
 <p align="center">
