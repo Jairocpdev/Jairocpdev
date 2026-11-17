@@ -21,7 +21,7 @@
 
 Desenvolvedor Full-Stack com experiência prática no ecossistema TypeScript/Python. Foco em sistemas em tempo real e APIs production-ready.
 
-- **Front-end:** SPAs performáticas com Angular 19, TypeScript, RxJS, Signals, Tailwind
+- **Front-end:** SPAs com Angular 19, TypeScript, RxJS, Signals, Tailwind
 - **Back-end:** APIs REST + WebSockets com FastAPI & Node.js, SOLID, DI, Pydantic v2, SQLAlchemy 2.0
 - **Dados & DevTools:** PostgreSQL, TimescaleDB, Redis, SQLAlchemy, Swagger/OpenAPI, Docker, Grafana
 - **Mindset:** Clean Code, arquitetura em camadas, testes automatizados e foco em problema de negócio
